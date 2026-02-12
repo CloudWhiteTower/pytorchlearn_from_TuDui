@@ -9,3 +9,7 @@ __pycache__/
 venv/
 .env
 .ipynb_checkpoints/
+
+# Datasets
+dataset/
+hymenoptera_data/
